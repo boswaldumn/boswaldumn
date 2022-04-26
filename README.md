@@ -12,7 +12,7 @@ I'm William Oswald
 
 Currently studying Computer Science and Software Engineering at the University of Minnesota. I am seeking an opportunity that will allow me to utilize my problem-solving skills, programming knowledge and ability to work in small teams. Bringing proficient knowledge of C, C++, Python, and Java with proven interpersonal skills and ability to communicate with clients, teammates, and professionals.
 
-Outside of tech, I love to travel, enjoy basketball and soccer (football for my European friends :grinning:) and cooking delicious meals. If you are around Minneapolis, drop me an email and let's catch-up sometime!
+Outside of tech, I love to travel, cook, and really enjoy basketball and soccer (football for my European friends :grinning:). If you are around Minneapolis, drop me an email and let's catch-up sometime!
 
 <h2>📫 How to reach me:</h2>
 
