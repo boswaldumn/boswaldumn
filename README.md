@@ -16,4 +16,4 @@ Outside of tech, I love to travel, enjoy basketball and soccer (football for my 
 
 <h2>📫 How to reach me:</h2>
 <a href="mailto:oswaldwc18@gmail.com">![oswaldwc18@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-https://mail.google.com/mail/u/1/#inbox
+<a href="https://www.linkedin.com/in/william-oswald/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
