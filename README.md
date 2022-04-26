@@ -15,4 +15,7 @@ Currently studying Computer Science and Software Engineering at the University o
 Outside of tech, I love to travel, enjoy basketball and soccer (football for my European friends :grinning:) and cooking delicious meals. If you are around Minneapolis, drop me an email and let's catch-up sometime!
 
 <h2>📫 How to reach me:</h2>
-<a href="https://www.linkedin.com/in/william-oswald/">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)</a>
+
+<a href="https://www.linkedin.com/in/william-oswald" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a> &nbsp;
