@@ -1,7 +1,7 @@
 # boswaldumn
 
 
-<h2>Hey!</h2>
+<h2>Hey! :wave:</h2>
 
 
 I'm William Oswald
